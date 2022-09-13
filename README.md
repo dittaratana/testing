@@ -1,2 +1,2 @@
 # testing
-buat test
+buat test gawe data
